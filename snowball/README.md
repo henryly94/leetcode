@@ -1,11 +1,6 @@
 # Leetcode submission record
 
-
 ## Submissions
-
-- (05-24.ipynb)
-- (05-25.ipynb)
-- (05-26.ipynb)
 
 ## 操作指南
 
