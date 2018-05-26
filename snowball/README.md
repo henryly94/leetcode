@@ -1,5 +1,9 @@
 # Leetcode submission record
 
+## Submissions
+
+- (05-25.ipynb)
+
 ## 操作指南
 
 操作顺序
