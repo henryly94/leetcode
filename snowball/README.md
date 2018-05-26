@@ -2,6 +2,26 @@
 
 ## Submissions
 
+- [Day 1](05-24.ipynb)
+1. 190 - reverse bits
+2. 566 - reshape the matrix
+3. 202 - happy number
+
+- [Day 2](05-25.ipynb)
+1. 459 - repeated substring pattern
+2. 686 - repeated string match
+3. 344 - reverse string
+4. 13 - roman to integer
+5. 189 - rotate array
+
+- [Day 3](05-26.ipynb)
+1. 26 - remove duplicates from sorted array¶
+2. 69 - sqrt(x)
+3. 101 - symmetric tree¶
+4. 242 - valid anagram
+5. 125 - valid palindrome
+6. 20 - valid parentheses
+
 ## 操作指南
 
 操作顺序
