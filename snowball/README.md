@@ -15,12 +15,20 @@
 5. 189 - rotate array
 
 - [Day 3](05-26.ipynb)
-1. 26 - remove duplicates from sorted array¶
+1. 26 - remove duplicates from sorted array
 2. 69 - sqrt(x)
-3. 101 - symmetric tree¶
+3. 101 - symmetric tree
 4. 242 - valid anagram
 5. 125 - valid palindrome
 6. 20 - valid parentheses
+
+- [Day 4](05-27.ipynb)
+1. 121 - best time to buy and sell stock
+2. 122 - best time to buy and sell stock II
+3. 70 - climbing stairs
+4. 217 - contains duplicate
+5. 108 - convert sorted array to binary search tree
+
 
 ## 操作指南
 
