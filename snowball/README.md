@@ -29,6 +29,12 @@
 4. 217 - contains duplicate
 5. 108 - convert sorted array to binary search tree
 
+- [Day 5](05-28.ipynb)
+1. 204 - count primes
+2. 38 - count and say
+3. 237 - delete node in a linked list
+4. 171 - excel sheet column number
+5. 172 - factorial trailing zeroes
 
 ## 操作指南
 
