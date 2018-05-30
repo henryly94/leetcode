@@ -36,6 +36,14 @@
 4. 171 - excel sheet column number
 5. 172 - factorial trailing zeroes
 
+- [Day 6](05-30.ipynb)
+1. 387 - first unique character in a string
+2. 198 - house robber
+3. 412 - fizz buzz
+4. 28 - implement strStr()
+5. 14 - longest common prefix
+
+
 ## 操作指南
 
 操作顺序
