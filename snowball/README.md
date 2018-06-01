@@ -43,6 +43,11 @@
 4. 28 - implement strStr()
 5. 14 - longest common prefix
 
+- [Day 7](05-31.ipynb)
+1. 350 - intersection of two arrays II
+2. 160 - intersection of two linked lists
+3. 169 - majority element
+
 
 ## 操作指南
 
