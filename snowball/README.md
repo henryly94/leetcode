@@ -48,6 +48,11 @@
 2. 160 - intersection of two linked lists
 3. 169 - majority element
 
+- [Day 8](06-12.ipynb)
+1. 9 - palindrome number
+2. 3 - longest substring without repeating characters
+3. 27 - remove element
+4. 15 - 3Sum
 
 ## 操作指南
 
