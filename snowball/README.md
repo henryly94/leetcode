@@ -54,6 +54,14 @@
 3. 27 - remove element
 4. 15 - 3Sum
 
+- [Day 9](06-13.ipynb)
+1. 16 - 3Sum Closest
+2. 36 - search insert position
+3. 5 - longest palindromic substring
+4. 53 - maximum subarray
+5. 33 - search in rotated sorted array
+
+
 ## 操作指南
 
 操作顺序
