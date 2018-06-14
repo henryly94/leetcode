@@ -19,7 +19,7 @@
 2. 69 - sqrt(x)
 3. 101 - symmetric tree
 4. 242 - valid anagram
-5. 125 - valid palindrome
+5. 125 - valid palindrome 
 6. 20 - valid parentheses
 
 - [Day 4](05-27.ipynb)
