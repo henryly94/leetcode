@@ -61,6 +61,13 @@
 4. 53 - maximum subarray
 5. 33 - search in rotated sorted array
 
+- [Day 10](06-14.ipynb)
+1. 34 - search for a range
+2. 36 - valid sudoku
+3. 46 - permutations
+4. 47 - permutation II
+5. 66 - plus one
+
 
 ## 操作指南
 
