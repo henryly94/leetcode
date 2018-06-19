@@ -68,6 +68,12 @@
 4. 47 - permutation II
 5. 66 - plus one
 
+- [Day 11](06-18.ipynb)
+1. 49 - group anagrams
+2. 50 - pow(x,n)
+3. 56 - merge intervals
+4. 54 - spiral matrix
+5. 55 - jump game
 
 ## 操作指南
 
