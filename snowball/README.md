@@ -75,6 +75,14 @@
 4. 54 - spiral matrix
 5. 55 - jump game
 
+- [Day 12](06-19.ipynb)
+1. 58 - length of last word
+2. 2 - add two numbers
+3. 11 - container with most water
+4. 17 - letter combinations of a phone number
+5. 19 - remove nth node from end of list
+
+
 ## 操作指南
 
 操作顺序
