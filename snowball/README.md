@@ -82,6 +82,12 @@
 4. 17 - letter combinations of a phone number
 5. 19 - remove nth node from end of list
 
+- [Day 13](06-20.ipynb)
+1. 24 - swap nodes in pairs
+2. 29 - divide two integers
+3. 31 - next permutation
+4. 48 - rotate image
+5. 67 - add binary
 
 ## 操作指南
 
