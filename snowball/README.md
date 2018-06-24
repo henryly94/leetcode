@@ -89,6 +89,14 @@
 4. 48 - rotate image
 5. 67 - add binary
 
+- [Day 14](06-21.ipynb)
+1. 60 - permutation sequence
+2. 61 - rotate list
+3. 62 - unique paths
+4. 63 - unique paths II
+5. 64 - minimum path sum
+
+
 ## 操作指南
 
 操作顺序
