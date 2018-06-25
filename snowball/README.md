@@ -96,6 +96,13 @@
 4. 63 - unique paths II
 5. 64 - minimum path sum
 
+- [Day 15](06-24.ipynb)
+1. 71 - simplify path
+2. 73 - set matrix zeroes
+3. 74 - search a 2D matrix (binary search)
+4. 75 - sort colors
+5. 80 -remove duplicates from sorted array II
+
 
 ## 操作指南
 
