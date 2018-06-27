@@ -101,7 +101,15 @@
 2. 73 - set matrix zeroes
 3. 74 - search a 2D matrix (binary search)
 4. 75 - sort colors
-5. 80 -remove duplicates from sorted array II
+5. 80 - remove duplicates from sorted array II
+
+- [Day 16](06-26.ipynb)
+1. 81 - search in rotated sorted array II
+2. 83 - remove duplicates from sorted list
+3. 82 - remove duplicates from sorted list II
+4. 86 - partition list
+5. 88 - merge sorted array
+6. 89 - gray code (recursive)
 
 
 ## 操作指南
