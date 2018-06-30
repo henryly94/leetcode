@@ -111,6 +111,14 @@
 5. 88 - merge sorted array
 6. 89 - gray code (recursive)
 
+- [Day 17](06-29.ipynb)
+1. 91 - decode ways
+2. 92 - reverse linked list II
+3. 93 - restore ip addresses (backtracking)
+4. 94 - binary tree inorder traversal
+5. 144 - binary tree preorder traversal
+
+
 
 ## 操作指南
 
