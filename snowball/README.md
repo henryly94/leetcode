@@ -118,6 +118,13 @@
 4. 94 - binary tree inorder traversal
 5. 144 - binary tree preorder traversal
 
+- [Day 18](06-30.ipynb)
+1. 95 - unique binary search trees II
+2. 96 - unique binary search trees
+3. 98 - validate binary search tree
+4. 100 - same tree
+5. 102 - binary tree level order traversal
+
 
 
 ## 操作指南
