@@ -125,6 +125,13 @@
 4. 100 - same tree
 5. 102 - binary tree level order traversal
 
+- [Day 19](07-03.ipynb)
+1. 103 - binary tree zigzag level order traversal
+2. 226 - invert binary tree
+3. 104 - maximum depth of binary tree
+4. 107 - binary tree level order traversal II
+5. 109 - convert sorted list to binary search tree (time and space complexity)
+
 
 
 ## 操作指南
