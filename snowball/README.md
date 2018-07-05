@@ -132,6 +132,14 @@
 4. 107 - binary tree level order traversal II
 5. 109 - convert sorted list to binary search tree (time and space complexity)
 
+- [Day 20](07-04.ipynb)
+1. 110 - balanced binary tree
+2. 111 - minimum depth of binary tree
+3. 112 - path sum
+4. 113 - path sum II
+5. 437 - path sum III (reference & value pass)
+
+
 
 
 ## 操作指南
