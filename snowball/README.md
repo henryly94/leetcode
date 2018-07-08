@@ -139,6 +139,19 @@
 4. 113 - path sum II
 5. 437 - path sum III (reference & value pass)
 
+- [Day 21](07-05.ipynb)
+1. 105 - construct binary tree from preorder and inorder traversal
+2. 106 - construct binary tree from inorder and postorder traversal
+3. 114 - flatten binary tree to linked list
+
+- [Day 22](07-07.ipynb)
+1. 116 - populating next right pointers in each node
+2. 117 - populating next right pointers in each node II
+3. 118 - pascal's triangle
+4. 119 - pascal's triangle II
+5. 120 - triangle
+6. 127 - word ladder
+
 
 
 
