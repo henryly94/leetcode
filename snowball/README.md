@@ -152,6 +152,16 @@
 5. 120 - triangle
 6. 127 - word ladder
 
+- [Day 23](07-08.ipynb)
+1. 129 - sum root to leaf numbers (recursion-one step)
+2. 130 - surrounded regions (recursion-outer&inner)
+3. 221 - maximal square
+
+- [Day 24](07-09.ipynb)
+1. 131 - palindrome partitioning (recursion-one step)
+2. 134 - gas station
+3. 138 - copy list with random pointer
+
 
 
 
