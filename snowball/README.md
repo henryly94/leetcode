@@ -162,6 +162,18 @@
 2. 134 - gas station
 3. 138 - copy list with random pointer
 
+- [Day 25](07-10.ipynb)
+1. 139 - word break
+2. 142 - linked list cycle II
+3. 143 - Reorder List
+4. 147 - Insertion Sort List
+
+- [Day 26](07-11.ipynb)
+1. 148 - Sort List
+2. 150 - Evaluate Reverse Polish Notation
+3. 151 - Reverse Words in a String
+4. 152 - Maximum Product Subarray
+
 
 
 
