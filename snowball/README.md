@@ -174,6 +174,12 @@
 3. 151 - Reverse Words in a String
 4. 152 - Maximum Product Subarray
 
+- [Day 27](07-12.ipynb)
+1. 153 - Find Minimum in Rotated Sorted Array
+2. 155 - Min Stack
+3. 162 - Find Peak Element
+4. 165 - Compare Version Numbers
+5. 166 - Fraction to Recurring Decimal
 
 
 
