@@ -189,6 +189,19 @@
 5. 176 - second highest salary (sql)
 6. 179 - largest number
 
+- [Day 29](07-18.ipynb)
+1. 187 - Repeated DNA Sequences
+2. 191 - Number of 1 Bits
+3. 199 - Binary Tree Right Side View
+
+- [Day 30](07-19.ipynb)
+1. 200 - Number of Islands
+2. 203 - Remove Linked List Elements
+3. 205 - Isomorphic Strings
+4. 207 - Course Schedule (topological sort)
+5. 210 - Course Schedule II
+6. 208 - Implement Trie (Prefix Tree)
+
 
 
 ## 操作指南
