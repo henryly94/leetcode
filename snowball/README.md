@@ -202,6 +202,20 @@
 5. 210 - Course Schedule II
 6. 208 - Implement Trie (Prefix Tree)
 
+- [Day 31](07-23.ipynb)
+1. 209 - Minimum Size Subarray Sum
+2. 211 - Add and Search Word - Data structure design
+3. 213 - House Robber II
+4. 337 - House Robber III
+5. 414 - Third Maximum Number (heap)
+
+- [Day 32](07-26.ipynb)
+1. 703 - Kth Largest Element in a Stream
+2. 215 - Kth Largest Element in an Array
+3. 219 - Contains Duplicate II
+4. 220 - Contains Duplicate III
+
+
 
 
 ## 操作指南
