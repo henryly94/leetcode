@@ -1,5 +1,7 @@
 # Leetcode submission record
 
+Xuebao shi benben.
+
 ## Submissions
 
 - [Day 1](05-24.ipynb)
