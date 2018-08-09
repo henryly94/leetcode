@@ -217,6 +217,20 @@ Xuebao shi benben.
 3. 219 - Contains Duplicate II
 4. 220 - Contains Duplicate III
 
+- [Day 33](08-05.ipynb)
+1. 222 - Count Complete Tree Nodes
+2. 223 - Rectangle Area
+
+- [Day 34](08-06.ipynb)
+1. 225 - Implement Stack using Queues
+2. 227 - Basic Calculator II
+3. 228 - Summary Ranges
+4. 229 - Majority Element II
+
+- [Day 35](08-08.ipynb)
+1. 671 - Second Minimum Node In a Binary Tree
+2. 230 - Kth Smallest Element in a BST
+3. 231 - Power of Two
 
 
 
