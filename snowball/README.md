@@ -232,6 +232,13 @@ Xuebao shi benben.
 2. 230 - Kth Smallest Element in a BST
 3. 231 - Power of Two
 
+- [Day 36](08-10.ipynb)
+1. 232 - Implement Queue using Stacks
+2. 234 - Palindrome Linked List
+3. 235 - Lowest Common Ancestor of a Binary Search Tree
+4. 236 - Lowest Common Ancestor of a Binary Tree (pop in recursion)
+5. 238 - Product of Array Except Self
+
 
 
 ## 操作指南
