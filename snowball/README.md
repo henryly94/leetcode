@@ -239,6 +239,18 @@ Xuebao shi benben.
 4. 236 - Lowest Common Ancestor of a Binary Tree (pop in recursion)
 5. 238 - Product of Array Except Self
 
+- [Day 37](08-12.ipynb)
+1. 257 - Binary Tree Paths
+2. 258 - Add Digits
+3. 263 - Ugly Number
+4. 268 - Missing Number
+5. 278 - First Bad Version
+6. 283 - Move Zeroes
+7. 290 - Word Pattern
+8. 292 - Nim Game
+9. 303 - Range Sum Query - Immutable
+10. 326 - Power of Three
+
 
 
 ## 操作指南
