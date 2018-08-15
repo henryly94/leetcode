@@ -251,6 +251,13 @@ Xuebao shi benben.
 9. 303 - Range Sum Query - Immutable
 10. 326 - Power of Three
 
+- [Day 38](08-14.ipynb)
+1. 240 - Search a 2D Matrix II
+2. 241 - Different Ways to Add Parentheses
+3. 260 - Single Number III
+4. 264 - ugly number II
+5. 274 - H-Index
+
 
 
 ## 操作指南
