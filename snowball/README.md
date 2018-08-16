@@ -258,6 +258,13 @@ Xuebao shi benben.
 4. 264 - ugly number II
 5. 274 - H-Index
 
+- [Day 39](08-15.ipynb)
+1. 275 - H-Index II
+2. 279 - perfect squares
+3. 284 - Peeking Iterator
+4. 287 - Find the Duplicate Number
+5. 289 - Game of Life
+
 
 
 ## 操作指南
