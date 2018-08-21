@@ -265,6 +265,20 @@ Xuebao shi benben.
 4. 287 - Find the Duplicate Number
 5. 289 - Game of Life
 
+- [Day 40](08-17.ipynb)
+1. 300 - Longest Increasing Subsequence
+2. 304 - Range Sum Query 2D - Immutable
+3. 306 - Additive Number (backtracking)
+4. 307 - Range Sum Query - Mutable
+5. 309 - Best Time to Buy and Sell Stock with Cooldown
+
+- [Day 41](08-18.ipynb)
+1. 310 - Minimum Height Trees
+2. 313 - Super Ugly Number
+3. 318 - Maximum Product of Word Lengths (bit manipulation)
+4. 319 - Bulb Switcher
+5. 322 - Coin Change
+6. 324 - Wiggle Sort II
 
 
 ## 操作指南
