@@ -280,6 +280,18 @@ Xuebao shi benben.
 5. 322 - Coin Change
 6. 324 - Wiggle Sort II
 
+- [Day 42](08-21.ipynb)
+1. 342 - Power of Four
+2. 345 - Reverse Vowels of a String
+3. 349 - Intersection of Two Arrays
+4. 328 - Odd Even Linked List
+
+- [Day 43](08-22.ipynb)
+1. 331 - Verify Preorder Serialization of a Binary Tree
+2. 332 - Reconstruct Itinerary (stack)
+3. 334 - Increasing Triplet Subsequence
+4. 338 - Counting Bits
+
 
 ## 操作指南
 
