@@ -292,6 +292,25 @@ Xuebao shi benben.
 3. 334 - Increasing Triplet Subsequence
 4. 338 - Counting Bits
 
+- [Day 44](08-26.ipynb)
+1. 416 - Partition Equal Subset Sum (knapsack problem)
+2. 805 - Split Array With Same Average
+3. 355 - Design Twitter (set)
+
+- [Day 45](08-27.ipynb)
+1. 357 - Count Numbers with Unique Digits
+2. 365 - Water and Jug Problem
+3. 367 - Valid Perfect Square
+4. 368 - Largest Divisible Subset
+5. 372 - Super Pow
+
+- [Day 46](08-28.ipynb)
+1. 373 - Find K Pairs with Smallest Sums
+2. 374 - Guess Number Higher or Lower
+3. 375 - Guess Number Higher or Lower II
+4. 376 - Wiggle Subsequence
+5. 39 - Combination Sum (backtracking)
+
 
 ## 操作指南
 
