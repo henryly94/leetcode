@@ -1,7 +1,5 @@
 # Leetcode submission record
 
-Xuebao shi benben.
-
 ## Submissions
 
 - [Day 1](05-24.ipynb)
@@ -54,7 +52,7 @@ Xuebao shi benben.
 1. 9 - palindrome number
 2. 3 - longest substring without repeating characters
 3. 27 - remove element
-4. 15 - 3Sum :)
+4. 15 - 3Sum :white_check_mark:
 
 - [Day 9](06-13.ipynb)
 1. 16 - 3Sum Closest
