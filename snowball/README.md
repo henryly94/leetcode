@@ -54,7 +54,7 @@ Xuebao shi benben.
 1. 9 - palindrome number
 2. 3 - longest substring without repeating characters
 3. 27 - remove element
-4. 15 - 3Sum
+4. 15 - 3Sum :)
 
 - [Day 9](06-13.ipynb)
 1. 16 - 3Sum Closest
