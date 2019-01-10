@@ -52,7 +52,7 @@
 1. 9 - palindrome number
 2. 3 - longest substring without repeating characters
 3. 27 - remove element
-4. 15 - 3Sum :white_check_mark:
+4. 15 - 3Sum 
 
 - [Day 9](06-13.ipynb)
 1. 16 - 3Sum Closest
@@ -66,7 +66,7 @@
 2. 36 - valid sudoku
 3. 46 - permutations
 4. 47 - permutation II
-5. 66 - plus one
+5. 66 - plus one :white_check_mark:
 
 - [Day 11](06-18.ipynb)
 1. 49 - group anagrams
