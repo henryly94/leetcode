@@ -66,7 +66,7 @@
 2. 36 - valid sudoku
 3. 46 - permutations
 4. 47 - permutation II
-5. 66 - plus one :white_check_mark:
+5. 66 - plus one 
 
 - [Day 11](06-18.ipynb)
 1. 49 - group anagrams
@@ -80,7 +80,7 @@
 2. 2 - add two numbers
 3. 11 - container with most water
 4. 17 - letter combinations of a phone number
-5. 19 - remove nth node from end of list
+5. 19 - remove nth node from end of list :white_check_mark:
 
 - [Day 13](06-20.ipynb)
 1. 24 - swap nodes in pairs
