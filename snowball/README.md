@@ -80,12 +80,12 @@
 2. 2 - add two numbers
 3. 11 - container with most water
 4. 17 - letter combinations of a phone number
-5. 19 - remove nth node from end of list :white_check_mark:
+5. 19 - remove nth node from end of list 
 
 - [Day 13](06-20.ipynb)
 1. 24 - swap nodes in pairs
 2. 29 - divide two integers
-3. 31 - next permutation
+3. 31 - next permutation :white_check_mark:
 4. 48 - rotate image
 5. 67 - add binary
 
