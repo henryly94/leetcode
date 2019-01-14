@@ -85,7 +85,7 @@
 - [Day 13](06-20.ipynb)
 1. 24 - swap nodes in pairs
 2. 29 - divide two integers
-3. 31 - next permutation :white_check_mark:
+3. 31 - next permutation 
 4. 48 - rotate image
 5. 67 - add binary
 
@@ -99,7 +99,7 @@
 - [Day 15](06-24.ipynb)
 1. 71 - simplify path
 2. 73 - set matrix zeroes
-3. 74 - search a 2D matrix (binary search)
+3. 74 - search a 2D matrix (binary search) :white_check_mark:
 4. 75 - sort colors
 5. 80 - remove duplicates from sorted array II
 
