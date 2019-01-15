@@ -99,7 +99,7 @@
 - [Day 15](06-24.ipynb)
 1. 71 - simplify path
 2. 73 - set matrix zeroes
-3. 74 - search a 2D matrix (binary search) :white_check_mark:
+3. 74 - search a 2D matrix (binary search) 
 4. 75 - sort colors
 5. 80 - remove duplicates from sorted array II
 
@@ -109,7 +109,7 @@
 3. 82 - remove duplicates from sorted list II
 4. 86 - partition list
 5. 88 - merge sorted array
-6. 89 - gray code (recursive)
+6. 89 - gray code (recursive) :white_check_mark:
 
 - [Day 17](06-29.ipynb)
 1. 91 - decode ways
