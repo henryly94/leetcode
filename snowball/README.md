@@ -130,7 +130,7 @@
 2. 226 - invert binary tree
 3. 104 - maximum depth of binary tree
 4. 107 - binary tree level order traversal II
-5. 109 - convert sorted list to binary search tree (time and space complexity) :white_check_mark:
+5. 109 - convert sorted list to binary search tree (time and space complexity) 
 
 - [Day 20](07-04.ipynb)
 1. 110 - balanced binary tree
@@ -142,7 +142,7 @@
 - [Day 21](07-05.ipynb)
 1. 105 - construct binary tree from preorder and inorder traversal
 2. 106 - construct binary tree from inorder and postorder traversal
-3. 114 - flatten binary tree to linked list
+3. 114 - flatten binary tree to linked list  :white_check_mark:
 
 - [Day 22](07-07.ipynb)
 1. 116 - populating next right pointers in each node
