@@ -142,7 +142,7 @@
 - [Day 21](07-05.ipynb)
 1. 105 - construct binary tree from preorder and inorder traversal
 2. 106 - construct binary tree from inorder and postorder traversal
-3. 114 - flatten binary tree to linked list  :white_check_mark:
+3. 114 - flatten binary tree to linked list  
 
 - [Day 22](07-07.ipynb)
 1. 116 - populating next right pointers in each node
@@ -155,7 +155,7 @@
 - [Day 23](07-08.ipynb)
 1. 129 - sum root to leaf numbers (recursion-one step)
 2. 130 - surrounded regions (recursion-outer&inner)
-3. 221 - maximal square
+3. 221 - maximal square  :white_check_mark:
 
 - [Day 24](07-09.ipynb)
 1. 131 - palindrome partitioning (recursion-one step)
