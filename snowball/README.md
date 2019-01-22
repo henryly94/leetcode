@@ -155,7 +155,7 @@
 - [Day 23](07-08.ipynb)
 1. 129 - sum root to leaf numbers (recursion-one step)
 2. 130 - surrounded regions (recursion-outer&inner)
-3. 221 - maximal square  :white_check_mark:
+3. 221 - maximal square  
 
 - [Day 24](07-09.ipynb)
 1. 131 - palindrome partitioning (recursion-one step)
@@ -172,7 +172,7 @@
 1. 148 - Sort List
 2. 150 - Evaluate Reverse Polish Notation
 3. 151 - Reverse Words in a String
-4. 152 - Maximum Product Subarray
+4. 152 - Maximum Product Subarray  :white_check_mark:
 
 - [Day 27](07-12.ipynb)
 1. 153 - Find Minimum in Rotated Sorted Array
